@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_prev.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-hdpi\\btn_play.png"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.png"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-hdpi\\btn_next.png"
+    }
+]

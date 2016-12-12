@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\custom.xml"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_progress.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\view_custom_progress.xml"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom_button.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\view_custom_button.xml"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_custom.xml",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\layout\\view_custom.xml"
+    }
+]

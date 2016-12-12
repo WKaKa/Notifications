@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Demo\Notifications1\app\src\main\assets"><file name="cs.apk" path="E:\Demo\Notifications1\app\src\main\assets\cs.apk"/></source></dataSet><dataSet config="debug"><source path="E:\Demo\Notifications1\app\src\debug\assets"/></dataSet></merger>

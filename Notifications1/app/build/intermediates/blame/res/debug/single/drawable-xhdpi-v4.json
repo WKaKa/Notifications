@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\sing_icon.jpg",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-xhdpi\\sing_icon.jpg"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Demo\\Notifications1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Demo\\Notifications1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
